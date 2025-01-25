@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>Assignment4SetA1</title>
+    </head>
+    <body bgcolor="#A8D5E3">
+        <hr>
+
+        <h1>Frame 1:</h1>
+        <iframe src="http://www.unipune.ac.in/university_files/university_emblem.htm" height="300px" width="1300px"></iframe>
+        <hr>
+
+        <h1>Frame 2:</h1>
+        <iframe src="http://www.poonacollege.edu.in/" height="300px" width="1300px"></iframe>
+        <hr>
+    
+        <h1>Frame 3:</h1>
+        <iframe src="https://www.flipkart.com/" height="300px" width="1300px"></iframe>
+</html>
